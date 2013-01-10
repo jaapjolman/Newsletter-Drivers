@@ -51,7 +51,7 @@ class Sendgrid
 				'type' => 'text',
 				'`options`' => '',
 				'is_required' => 0,
-				'is_gui' => 0,
+				'is_gui' => 1,
 				'module' => 'sendgrid'
 				),
 			array(

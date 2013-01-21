@@ -3,14 +3,14 @@
 // Settings
 $lang['sendgrid:status']							= 'Status';
 $lang['sendgrid:status:description']				= '';
-$lang['sendgrid:status:options']					= '0=Disabled|1=Enabled';
+$lang['sendgrid:status:options']					= '0=Uitgeschakeld|1=Ingeschakeld';
 
-$lang['sendgrid:username']							= 'Username';
+$lang['sendgrid:username']							= 'Gebruikersnaam';
 $lang['sendgrid:username:description']				= '';
 
-$lang['sendgrid:password']							= 'Password';
+$lang['sendgrid:password']							= 'Wachtwoord';
 $lang['sendgrid:password:description']				= '';
 
-$lang['sendgrid:events_key']						= 'Events Key';
-$lang['sendgrid:events_key:description']			= 'Used like http://yoursite.com/newsletters/api/sendgrid/<strong>KEY</strong>';
+$lang['sendgrid:events_key']						= 'Gebeurtenis Sleutel';
+$lang['sendgrid:events_key:description']			= 'Gebruik zoals http://jousite.nl/newsletters/api/sendgrid/<strong>SLEUTEL</strong>';
 $lang['sendgrid:events_key:options']				= '';
